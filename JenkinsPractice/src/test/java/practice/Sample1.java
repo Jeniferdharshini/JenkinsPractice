@@ -7,6 +7,7 @@ public class Sample1 {
 		//pull back
 		//push to eclipse
 		//push to git
+		System.out.println("Jenkin practice periodically");
 	}
 
 }
