@@ -8,6 +8,8 @@ public class Sample1 {
 		//push to eclipse
 		//push to git
 		System.out.println("Jenkin practice periodically");
+	System.out.println("works  periodically");
+
 	}
 
 }
