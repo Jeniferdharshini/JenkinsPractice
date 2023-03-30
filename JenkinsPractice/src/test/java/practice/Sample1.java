@@ -6,6 +6,7 @@ public class Sample1 {
 		System.out.println("main method running");
 		//pull back
 		//push to eclipse
+		//push to git
 	}
 
 }
