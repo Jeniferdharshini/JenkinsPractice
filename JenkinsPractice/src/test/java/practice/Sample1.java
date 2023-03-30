@@ -18,6 +18,7 @@ public class Sample1 {
 		System.out.println("Jenkin practice periodically");
 	   System.out.println("works  periodically");
 	   //push to git again
+		//push to eclipse
 
 	}
 
